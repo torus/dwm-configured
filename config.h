@@ -30,8 +30,8 @@ static const Rule rules[] = {
 	{ "Gimp",     NULL,       NULL,       0,            1,           -1 },
 	{ "Firefox",  NULL,       NULL,       1 << 8,       0,           -1 },
 //	{ "Nautilus", NULL,       NULL,       0,            1,           -1 },
-	{ "spine",    NULL,       NULL,       0,            1,           -1 },
-	{ "UE4Editor", NULL,      NULL,       0,            1,           -1 },
+//	{ "spine",    NULL,       NULL,       0,            1,           -1 },
+//	{ "UE4Editor", NULL,      NULL,       0,            1,           -1 },
 	{ "SimpleScreenRecorder", NULL, NULL, 0,            1,           -1 },
 };
 
