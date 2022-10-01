@@ -31,6 +31,8 @@ static const Rule rules[] = {
 	{ "Firefox",  NULL,       NULL,       1 << 8,       0,           -1 },
 	{ "SimpleScreenRecorder", NULL, NULL, 0,            1,           -1 },
 	{ "Peek",     NULL,       NULL,       0,            1,           -1 },
+	{ "UnrealEditor", NULL,   NULL,       0,            1,           -1 },
+	{ "Org.gnome.Nautilus", NULL, NULL,   0,            1,           -1 },
 };
 
 /* layout(s) */
